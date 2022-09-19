@@ -22,9 +22,9 @@ $pic = $pics[array_rand($pics)];
 $type=$_GET['type'];
 switch($type){
  
-//JSON返回
+
 case 'json':
-    header('Content-type:text/json');
+    header('Content-Type: image/png');
     die(json_encode(['pic'=>$pic]));
  
 default:
