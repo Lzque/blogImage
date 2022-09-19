@@ -30,3 +30,4 @@ die(json_encode(['pic'=>$pic]));
 default:
 die(header("Location: $pic"));
 }
+?>
