@@ -4367,6 +4367,9 @@ object-assign
         e.exports = {
             傲娇:"https://cdn.jsdelivr.net/gh/drew233/cdn/20200409103906.webp",
             
+
+
+            
             开心:"https://cdn.jsdelivr.net/gh/drew233/cdn/20200409104757.webp",
             扣手手:"https://cdn.jsdelivr.net/gh/drew233/cdn/20200409130304.webp",
             仙女下凡:"https://cdn.jsdelivr.net/gh/drew233/cdn/20200409130301.webp",
